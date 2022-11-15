@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630110267110-4gramurro4jflo6o8g2c4rrp15p1nqpq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630110267110-4gramurro4jflo6o8g2c4rrp15p1nqpq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqgIB6I0e61D1eJDD7vG54zisOg_rr-hQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630110267110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.happyHomeCtv</string>
+	<key>PROJECT_ID</key>
+	<string>minhhien-solutions</string>
+	<key>STORAGE_BUCKET</key>
+	<string>minhhien-solutions.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630110267110:ios:e17fc5aa712e8ef7a1fd27</string>
+	<key>DATABASE_URL</key>
+	<string>https://minhhien-solutions.firebaseio.com</string>
+</dict>
+</plist>

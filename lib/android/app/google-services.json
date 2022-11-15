@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630110267110",
+    "firebase_url": "https://minhhien-solutions.firebaseio.com",
+    "project_id": "minhhien-solutions",
+    "storage_bucket": "minhhien-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630110267110:android:a9666bef78cef22ea1fd27",
+        "android_client_info": {
+          "package_name": "andin.ctvhappyhome.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630110267110-agemdbop0pnvu55bk03jbjijremlgroo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-m5AHBLbrM7Si2ZbnN0adUlm3VeZneM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630110267110-agemdbop0pnvu55bk03jbjijremlgroo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630110267110-0d4fje1tmhs818pp3sn9kh0uk64o18qi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
